@@ -1,0 +1,15 @@
+tmp
+.history
+dist
+build
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
+/.target
+.sass-cache
+node_modules
