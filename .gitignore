@@ -1,7 +1,5 @@
 tmp
 .history
-dist
-build
 /.idea
 /*.iml
 /out
